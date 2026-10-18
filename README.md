@@ -2,7 +2,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="Ukraine_FLAG"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Ukraine. Most of the resources and tools have versions in Ukrainian, some also in English. Since 24 February 2022, martial law has restricted several registers: the Public Cadastral Map was switched off for the general public, and the Unified Register of Court Decisions and some other state sites are not reachable from many foreign IP addresses. The Unified State Register of legal entities (EDR), including beneficial owners, remains searchable for free and is published daily as open data; real estate rights information is available as a paid online extract through Diia with Ukrainian e-ID. Asset declarations of public officials were reopened in 2023. Names may appear in Ukrainian, Russian, and transliterated forms, so search all variants.
 
-**Last Updated:** 2026-10-14
+![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Ukraine?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
